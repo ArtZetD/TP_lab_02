@@ -5,9 +5,9 @@ Part 1
 1 - создал пустой репозиторий на github
 
 2 - создание первого комита 
-$git config --global user.name & user.email ("...")
-$git config user.name & user.email ("...")
-$git init 
+$git config --global user.name & user.email ("...")\n
+$git config user.name & user.email ("...")\n
+$git init
 $git add README.md
 $git commit -m "first commit"
 $git remote add origin git@github.com:ArtZetD/TP_lab_02.git
